@@ -6,3 +6,6 @@
 - local storage <br>
 - JavaScript Classes <br>
 - Bootstrap <br>
+
+![Animated GIF-downsized_large](https://media.giphy.com/media/rcdgI8qfAMnRSqiudz/giphy.gif)
+
